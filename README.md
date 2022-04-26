@@ -1,2 +1,5 @@
 # first-clock
-First thing I wrote in JS - its not perfect but what is. A simple digital clock with endless things to add or change
+Super simple digital clock with many possiblities to change or add to - its not perfect but what is.
+
+# What I've Learnt
+Using functions and if statements, meridian time and linking with HTML. (All very basic).
