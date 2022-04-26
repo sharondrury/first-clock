@@ -3,3 +3,6 @@ Super simple digital clock with many possiblities to change or add to - its not 
 
 # What I've Learnt
 Using functions and if statements, meridian time and linking with HTML. (All very basic).
+
+# Those reading/viewing this
+Feel free to amend with comment (if this is possible).
